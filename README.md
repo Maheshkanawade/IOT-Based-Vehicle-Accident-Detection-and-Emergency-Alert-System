@@ -140,7 +140,7 @@ This system is a **real-time accident detection and emergency alert device** bui
 
 ## 📸 Project Photos
 
-> 📷 *Hardware setup photos will be added here*
+![Working](images/working1.png)
 
 ---
 
