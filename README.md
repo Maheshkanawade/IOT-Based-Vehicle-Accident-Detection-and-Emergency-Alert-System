@@ -90,7 +90,7 @@ This system is a **real-time accident detection and emergency alert device** bui
 
 ## 🔌 Circuit Connections
 
-> 📷 *Circuit diagram image will be added here*
+![Circuit Diagram](images/circuit.png)
 
 ### MPU6050 → Arduino Uno
 | MPU6050 Pin | Arduino Pin |
