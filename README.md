@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Conference](https://img.shields.io/badge/Published-PRECCON_2025-blue?style=for-the-badge)
+![Conference](https://img.shields.io/badge/Presented_at-PRECCON_2025-blue?style=for-the-badge)
 
 > ⚡ An interrupt-driven embedded system that detects real vehicle accidents and automatically sends GPS location via SMS — within seconds.
 
