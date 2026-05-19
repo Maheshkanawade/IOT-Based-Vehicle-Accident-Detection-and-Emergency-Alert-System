@@ -141,6 +141,7 @@ This system is a **real-time accident detection and emergency alert device** bui
 ## 📸 Project Photos
 
 ![Working](images/working1.png)
+![Hardware](images/hardware2.jpg)
 
 ---
 
