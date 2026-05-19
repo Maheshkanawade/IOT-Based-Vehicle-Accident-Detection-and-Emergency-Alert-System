@@ -30,7 +30,7 @@
 [INFO]   >> Verifying event... not a speed bump
 [WARN]   >> Accident confirmed!
 [INFO]   >> Fetching GPS coordinates...
-[OK]     >> Location: 19.9975° N, 73.7898° E
+[OK]     >> Location: 00.0000° N, 00.0000° E
 [OK]     >> Sending SMS alert...
 [SENT]   >> Emergency SMS delivered ✅
 [INFO]   >> Cancellation window: 10 sec (press button to cancel)
