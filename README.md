@@ -1,4 +1,4 @@
-# 🚗 Real-Time Vehicle Accident Detection and Emergency Alert System
+# Real-Time Vehicle Accident Detection and Emergency Alert System
 
 <div align="center">
 
